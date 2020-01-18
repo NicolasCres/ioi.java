@@ -28,6 +28,7 @@ public class ApplicationMain
 		System.out.println(age);
 		System.out.println(answer);
 		System.out.println("My name is " + name + ".My age is " + age + ".My answer is "+ answer);
+	
 	}
 
 }
